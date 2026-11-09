@@ -6,7 +6,7 @@
 
 ## 🔗 Демо
 
-**Публичная ссылка:** https://ВАШ-ЛОГИН.github.io/car-forms/
+**Публичная ссылка:** https://LIDL283747.github.io/car-forms/
 
 ## Возможности
 
